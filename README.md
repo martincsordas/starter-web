@@ -20,3 +20,7 @@ Some random text here
 ## ValamiAmerika
 
 Egy kettő három négy --------------úúúúúúúúúúááááááááááááá
+
+### Copyright
+
+2022 mcs
