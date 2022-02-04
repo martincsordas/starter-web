@@ -8,3 +8,7 @@ asd
 
 dsa
 Sample website with plenty of files for demos
+
+## Deployment
+
+Some info about deployment
