@@ -24,8 +24,10 @@ Egy kettő három négy --------------úúúúúúúúúúááááááááááá
 
 ### Copyright
 
-2022 mcs
+2022 mcs. All rights reserved.
+
 
 ## How to contribute
 
 Fork this repo and submit issues for review
+
